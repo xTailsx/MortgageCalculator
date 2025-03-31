@@ -60,6 +60,9 @@ Copy
 python app.py
 The application should now be accessible in your browser at http://127.0.0.1:5000/.
 
+![image](https://github.com/user-attachments/assets/b58fb824-31f7-4337-ab35-7e7fdb3ad234)
+
+
 Folder Structure
 Here is the structure of the project:
 
