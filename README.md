@@ -1,24 +1,24 @@
-# MortgageCalculator
+# Mortgage Calculator
 This project is a simple Mortgage Calculator built using Flask to visually represent the loan balance over time. It allows users to calculate mortgage details with different variables.
 
-#Features
+# Features
 Mortgage calculator that computes loan details.
 
 Frontend built with HTML, JavaScript, and CSS.
 
 Backend powered by Python and Flask.
 
-#Prerequisites
+# Prerequisites
 Make sure you have the following installed:
 
 Python 3.x
 
 pip (Python package manager)
 
-#Required Python Libraries:
+# Required Python Libraries:
 Flask: Web framework for building the application.
 
-#Installation Instructions
+# Installation Instructions
 Clone the Repository
 
 Clone the repository to your local machine using the following command:
