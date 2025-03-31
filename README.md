@@ -24,9 +24,12 @@ Clone the Repository
 Clone the repository to your local machine using the following command:
 
 bash
+
 Copy
+
 git clone https://github.com/xTailsx/mortgage-calculator.git
-Install Dependencies
+
+# Install Dependencies
 
 Navigate to the project directory and install the required Python libraries:
 
@@ -41,16 +44,24 @@ If you prefer using a virtual environment, create and activate it:
 For macOS/Linux:
 
 bash
+
 Copy
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 For Windows:
 
 bash
+
 Copy
+
 python -m venv venv
+
 .\venv\Scripts\activate
-Run the Application
+
+# Run the Application
 
 To start the Flask server, run the following command:
 
