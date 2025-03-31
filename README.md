@@ -34,10 +34,14 @@ git clone https://github.com/xTailsx/mortgage-calculator.git
 Navigate to the project directory and install the required Python libraries:
 
 bash
+
 Copy
+
 cd mortgage-calculator
+
 pip install -r requirements.txt
-Create a Virtual Environment (Optional)
+
+# Create a Virtual Environment (Optional)
 
 If you prefer using a virtual environment, create and activate it:
 
@@ -74,6 +78,9 @@ The application should now be accessible in your browser at http://127.0.0.1:500
 
 
 ## Folder Structure
+
+Here is the directory structure:
+
 
 mortgage-calculator/
 ├── app.py                # Flask app for backend logic
