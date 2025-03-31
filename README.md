@@ -25,7 +25,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy
-git clone https://github.com/your-username/mortgage-calculator.git
+git clone https://github.com/xTailsx/mortgage-calculator.git
 Install Dependencies
 
 Navigate to the project directory and install the required Python libraries:
@@ -67,7 +67,7 @@ The application should now be accessible in your browser at http://127.0.0.1:500
 mortgage-calculator/
 ├── app.py                # Flask app for backend logic
 ├── templates/            # HTML templates (Flask renders these)
-│   └── index.html        # Main page with mortgage calculator and graph
+│   └── index.html        # Main page with mortgage calculator
 ├── static/               # Static assets like CSS and JS
 │   ├── css/
 │   │   └── style.css     # Custom CSS for styling
