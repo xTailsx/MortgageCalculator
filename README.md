@@ -1,5 +1,4 @@
 # MortgageCalculator
-Mortgage Calculator 
 This project is a simple Mortgage Calculator built using Flask to visually represent the loan balance over time. It allows users to calculate mortgage details with different variables.
 
 Features
@@ -63,8 +62,11 @@ The application should now be accessible in your browser at http://127.0.0.1:500
 ![image](https://github.com/user-attachments/assets/b58fb824-31f7-4337-ab35-7e7fdb3ad234)
 
 
-Folder Structure
-Here is the structure of the project:
+## Folder Structure
+
+Here is the folder structure of the project:
+
+
 
 mortgage-calculator/
 ├── app.py                # Flask app for backend logic
