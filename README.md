@@ -64,7 +64,13 @@ The application should now be accessible in your browser at http://127.0.0.1:500
 
 ## Folder Structure
 
-Here is the folder structure of the project:
-
-
-mortgage-calculator/ ├── app.py # Flask app for backend logic ├── templates/ # HTML templates (Flask renders these) │ └── index.html # Main page with mortgage calculator and graph ├── static/ # Static assets like CSS and JS │ ├── css/ │ │ └── style.css # Custom CSS for styling │ └── js/ │ └── script.js # Custom JavaScript (if needed) └── requirements.txt # Python dependencies (Flask)
+mortgage-calculator/
+├── app.py                # Flask app for backend logic
+├── templates/            # HTML templates (Flask renders these)
+│   └── index.html        # Main page with mortgage calculator and graph
+├── static/               # Static assets like CSS and JS
+│   ├── css/
+│   │   └── style.css     # Custom CSS for styling
+│   └── js/
+│       └── script.js     # Custom JavaScript (if needed)
+└── requirements.txt      # Python dependencies (Flask)
